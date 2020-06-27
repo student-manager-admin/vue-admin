@@ -1,5 +1,5 @@
-# hello-world
-
+# 学生管理系统vue版
+技术：vue+element-ui
 ## Project setup
 ```
 npm install
