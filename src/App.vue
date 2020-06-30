@@ -16,4 +16,7 @@ export default {
 </script>
 
 <style>
+#app{
+  padding: 20px 40px;
+}
 </style>
